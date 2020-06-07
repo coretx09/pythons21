@@ -16,7 +16,7 @@ print(message_2)
 message_3 = f"{first} [{last}] is a coder"
 print(message_3)
 
-# string methods
+# string methods v
 
 print(len(phrase))  # renvoie le nombre de caracteres
 print(phrase.upper())  # majuscule
